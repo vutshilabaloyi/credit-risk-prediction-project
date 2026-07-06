@@ -48,6 +48,7 @@ credit-risk-prediction/
 │── credit risk prediction.ipynb
 │── german.csv
 │── README.md
+│── images
 ```
 
 ## Author
